@@ -1,0 +1,7 @@
+﻿  Game.cpp
+c:\users\krystian\desktop\pulpit\studia\3 rok\semstr 6\programowanie obiektowe\laboratorium - wielgus\drugi duzy program\game\game\game.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\krystian\desktop\pulpit\studia\3 rok\semstr 6\programowanie obiektowe\laboratorium - wielgus\drugi duzy program\game\game\game.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\krystian\desktop\pulpit\studia\3 rok\semstr 6\programowanie obiektowe\laboratorium - wielgus\drugi duzy program\game\game\game.cpp(165): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\krystian\desktop\pulpit\studia\3 rok\semstr 6\programowanie obiektowe\laboratorium - wielgus\drugi duzy program\game\game\game.cpp(250): warning C4018: '<': signed/unsigned mismatch
+  Game.vcxproj -> C:\Users\Krystian\Desktop\Pulpit\STUDIA\3 rok\Semstr 6\Programowanie Obiektowe\Laboratorium - Wielgus\Drugi duzy program\Game\Debug\Game.exe
+  Game.vcxproj -> C:\Users\Krystian\Desktop\Pulpit\STUDIA\3 rok\Semstr 6\Programowanie Obiektowe\Laboratorium - Wielgus\Drugi duzy program\Game\Debug\Game.pdb (Full PDB)
